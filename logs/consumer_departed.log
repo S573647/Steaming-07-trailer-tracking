@@ -1,0 +1,9 @@
+2024-06-13 06:38:15,059.consumer_departed.INFO ==================================================
+2024-06-13 06:38:15,060.consumer_departed.INFO Today is 2024-06-13 at 06:38 AM
+2024-06-13 06:38:15,061.consumer_departed.INFO Running on: nt Windows 11
+2024-06-13 06:38:15,062.consumer_departed.INFO Python version:  3.12.1
+2024-06-13 06:38:15,062.consumer_departed.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking\.venv
+2024-06-13 06:38:15,063.consumer_departed.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking
+2024-06-13 06:38:15,097.consumer_departed.INFO ==================================================
+2024-06-13 06:38:15,114.consumer_departed.INFO Listening for messages on departed_queue. Press CTRL+C to exit.
+2024-06-13 06:38:35,133.consumer_departed.INFO Consumer interrupted. Closing connection...

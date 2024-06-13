@@ -1,0 +1,13 @@
+2024-06-13 06:38:53,761.consumer_idle.INFO ==================================================
+2024-06-13 06:38:53,763.consumer_idle.INFO Today is 2024-06-13 at 06:38 AM
+2024-06-13 06:38:53,763.consumer_idle.INFO Running on: nt Windows 11
+2024-06-13 06:38:53,764.consumer_idle.INFO Python version:  3.12.1
+2024-06-13 06:38:53,764.consumer_idle.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking\.venv
+2024-06-13 06:38:53,765.consumer_idle.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking
+2024-06-13 06:38:53,766.consumer_idle.INFO ==================================================
+2024-06-13 06:38:53,830.consumer_idle.INFO Listening for messages on idle_queue. Press CTRL+C to exit.
+2024-06-13 06:38:58,362.consumer_idle.INFO Email sent for trailer 1044
+2024-06-13 06:39:02,416.consumer_idle.INFO Email sent for trailer 4210
+2024-06-13 06:39:06,493.consumer_idle.INFO Email sent for trailer 8505
+2024-06-13 06:39:10,412.consumer_idle.INFO Email sent for trailer 3879
+2024-06-13 06:39:14,221.consumer_idle.INFO Email sent for trailer 7185

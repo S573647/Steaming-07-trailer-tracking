@@ -1,0 +1,11 @@
+2024-06-13 06:01:58,669.consumer_arrived.INFO ==================================================
+2024-06-13 06:01:58,670.consumer_arrived.INFO Today is 2024-06-13 at 06:01 AM
+2024-06-13 06:01:58,670.consumer_arrived.INFO Running on: nt Windows 11
+2024-06-13 06:01:58,670.consumer_arrived.INFO Python version:  3.12.1
+2024-06-13 06:01:58,671.consumer_arrived.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking\.venv
+2024-06-13 06:01:58,671.consumer_arrived.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking
+2024-06-13 06:01:58,706.consumer_arrived.INFO ==================================================
+2024-06-13 06:01:58,724.consumer_arrived.INFO Listening for messages on arrived_queue. Press CTRL+C to exit.
+2024-06-13 06:03:44,785.consumer_arrived.INFO Email sent for trailer 9162
+2024-06-13 06:36:19,730.consumer_arrived.INFO Email sent for trailer 7801
+2024-06-13 06:36:50,048.consumer_arrived.INFO Email sent for trailer 1553

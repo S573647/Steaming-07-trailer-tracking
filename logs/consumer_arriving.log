@@ -1,0 +1,20 @@
+2024-06-13 06:02:20,575.consumer_arriving.INFO ==================================================
+2024-06-13 06:02:20,576.consumer_arriving.INFO Today is 2024-06-13 at 06:02 AM
+2024-06-13 06:02:20,577.consumer_arriving.INFO Running on: nt Windows 11
+2024-06-13 06:02:20,577.consumer_arriving.INFO Python version:  3.12.1
+2024-06-13 06:02:20,578.consumer_arriving.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking\.venv
+2024-06-13 06:02:20,578.consumer_arriving.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Steaming-07-trailer-tracking
+2024-06-13 06:02:20,612.consumer_arriving.INFO ==================================================
+2024-06-13 06:02:20,632.consumer_arriving.INFO Listening for messages on arriving_queue. Press CTRL+C to exit.
+2024-06-13 06:02:25,546.consumer_arriving.INFO Email sent for trailer 2667
+2024-06-13 06:02:29,370.consumer_arriving.INFO Email sent for trailer 5479
+2024-06-13 06:02:33,585.consumer_arriving.INFO Email sent for trailer 2215
+2024-06-13 06:02:37,500.consumer_arriving.INFO Email sent for trailer 8351
+2024-06-13 06:02:41,417.consumer_arriving.INFO Email sent for trailer 8155
+2024-06-13 06:02:45,508.consumer_arriving.INFO Email sent for trailer 1013
+2024-06-13 06:02:49,404.consumer_arriving.INFO Email sent for trailer 5455
+2024-06-13 06:03:09,956.consumer_arriving.INFO Email sent for trailer 7187
+2024-06-13 06:03:19,880.consumer_arriving.INFO Email sent for trailer 6882
+2024-06-13 06:03:24,472.consumer_arriving.INFO Email sent for trailer 1336
+2024-06-13 06:03:39,810.consumer_arriving.INFO Email sent for trailer 8724
+2024-06-13 06:28:26,459.consumer_arriving.ERROR AMQP connection error: No activity or too many missed heartbeats in the last 60 seconds
